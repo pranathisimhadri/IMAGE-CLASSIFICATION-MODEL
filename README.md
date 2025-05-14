@@ -109,4 +109,6 @@ pip install torch torchvision matplotlib numpy
 * Base for more advanced computer vision tasks like segmentation
 * Educational intro to PyTorch + CNNs
 
+output
+![Image](https://github.com/user-attachments/assets/526f4a85-75c5-4b9e-8273-765303f20b5d)
 
