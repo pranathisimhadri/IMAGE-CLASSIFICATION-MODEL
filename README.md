@@ -1,6 +1,20 @@
 # IMAGE-CLASSIFICATION-MODEL
 
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME :Pranathi Simhadri
+
+INTERN ID : CT04DM549
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 4 WEEEKS
+
+MENTOR : NEELA SANTOSH
+
+
+
 ## 🖼️ Image Classification with CNN in PyTorch
 
 This project demonstrates a simple yet effective **Image Classification** pipeline using a **Convolutional Neural Network (CNN)** built with **PyTorch**. The goal is to classify images into predefined categories using deep learning.
@@ -95,12 +109,4 @@ pip install torch torchvision matplotlib numpy
 * Base for more advanced computer vision tasks like segmentation
 * Educational intro to PyTorch + CNNs
 
----
 
-Let me know if you want:
-
-* A script (`.py`) version of the notebook
-* A way to deploy this as a web app (using **Streamlit**, **Gradio**, or **Flask**)
-* Or to convert it for mobile inference (e.g., using **TorchScript**)
-
-Want me to auto-generate the README file and save it?
