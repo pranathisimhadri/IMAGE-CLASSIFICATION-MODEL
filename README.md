@@ -3,7 +3,7 @@
 
 COMPANY : CODTECH IT SOLUTIONS
 
-NAME :Pranathi Simhadri
+NAME :Simhadri Pranathi 
 
 INTERN ID : CT04DM549
 
